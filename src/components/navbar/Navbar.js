@@ -12,7 +12,7 @@ const Navbar = () => {
           </div>
           <div className={'column'}>
             <ul className={'menus'}>
-              <li>
+              <li className={'siren'}>
                 <a>Home</a>
               </li>
               <li>
